@@ -18,6 +18,7 @@ public class Main {
         b2.addOwner(o1);
         b2.addOwner(o3);
 
+
         System.out.println("the owners of the first building as follow: ");
         Enumeration e1 = b1.getOwners();
 

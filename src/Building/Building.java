@@ -9,6 +9,7 @@ public class Building {
         owners = new Vector();
     }
 
+
     public Enumeration getOwners() {
         return owners.elements();
     }
